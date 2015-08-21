@@ -77,3 +77,159 @@ Participants’ Performance
 
 Observations
 
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+4.	Can you tell me the schedule for a daily commitment for the same fund you have been checking?
+Participants’ Performance 
+  Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+5.	Can you tell me who the Commitment Approver is for that same fund?
+Participants’ Performance 
+  Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+
+Creating Commitments
+1.	Can you please create a new monthly web commitment for PV100384 to be sent on BD6? 
+
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+1.	For the same new monthly commitment. Please set and save:
+Top 10 Holdings MLP to Show portfolio,
+Industry Allocation to Show Portfolio
+Performance to Show Portfolio & BM.
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+2.	Can you please create a new daily web commitment for PV100370 to start being sent to the web on 27th August?
+
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed 
+Observations
+
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+
+3.	Can you set for the same fund that for the daily commitment you only want to send performance data?
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+
+Observations
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+Regenerating Commitments
+1.	Goldman Sachs Global Fixed Income Plus Portfolio (Hedged) has been rejected in AEM because the data is stale; you need to regenerate the monthly report. Please search and create an adhoc commitment in order to send this straight away.
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+2.	Goldman Sachs US$ Liquid Reserves Fund’s fund structure is incorrect and the Product Team has asked you to hide this for the monthly report and regenerate it to create a new workflow for the web. Please create this adhoc workflow to do this.
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+3.	The Product Team tells you that going forward the fund structure for Goldman Sachs US$ Liquid Reserves Fund needs to always be set to hide. Please check that the monthly report is configured correctly.
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+4.	Please tell me the status of the workflow you just kicked off 
+Participants’ Performance 
+   Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+
+
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+5.	Please view the json that you have just sent to the web
+
+Participants’ Performance 
+ Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+6.	How many jsons have been sent to the web for this fund?
+
+Participants’ Performance 
+ Succeeded with ease  -  Succeeded  -  Succeeded with difficulty  -  Failed
+
+Observations
+
+
+Time spent:  <5secs   10secs   20secs   30secs   1mins   2mins   3mins   5mins    >5mins
+
+
+
+End of Test Questions
+Do you feel you successfully complete all the tasks?
+Did you think the application was complex to use?
+Did you think the application was easy to use?
+Did you think you would need support of a technical person to use this application?
+Did you think most of the reporting team would learn how to use this application very easily?
+Were the buttons and actions organised and easy to find?
+Does the flow of the application match how you would use it on the Desk?
+Did you think there was too much inconsistency in the application?
+Did you feel confident using the application?
+Did you need learn a lot of things before you could achieve the tasks?
+What did you like most about the application?
+What did you dislike most about it?
+What did you feel about the visual appearance of the application?
