@@ -1,0 +1,8 @@
+books:
+Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations (The Morgan Kaufmann Series in Data Management Systems)
+Advanced Analytics with Spark
+Machine Learning with Spark
+
+
+online:
+http://scikit-learn.org/stable/
